@@ -1,13 +1,9 @@
-## Bootstrap Forums skin for b2evolution CMS.
+## Bootstrap Forums Skin
 
-Link to skin: http://skins.b2evolution.net/bootstrap-forums-skin
+### Update log
 
-<img src="skinshot-big.png"/>
+#### v6.8.6
+- sync with latest version from b2evolution:master
 
-### Update Log:
-
-#### v6.7.8-stable
-- sync with latest bootstrap_forums_skin built-in version in b2evolution 6.7.8-stable
-
-#### v6.7.6-stable
-- sync with latest bootstrap_forums_skin built-in version in b2evolution 6.7.6-stable
+#### v6.8.0-aplha
+- LESS modules includes moved from skin style to generic b2evo CSS file
